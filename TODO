@@ -1,0 +1,3 @@
+Tasks:
+    - body of Controller->render_view(View, array()) function.
+    - body of Controller->modelizer(Model, Request) function.
